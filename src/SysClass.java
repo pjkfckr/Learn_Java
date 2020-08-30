@@ -21,7 +21,7 @@ public class SysClass {
 		System.out.println("Park said \"Hi\"");
 		
 		// 문자와 문자를 더할 때는 이와 같다.
-		System.out.println("Sangyeong " + "Park");
+		System.out.println("Sangyeong" + "Park");
 	}
 
 }
